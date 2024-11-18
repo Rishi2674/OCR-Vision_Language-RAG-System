@@ -1,0 +1,23 @@
+byaldi
+tf2onnx
+pdf2image
+transformers==4.46.1
+qwen-vl-utils
+tensorflow
+torch
+python-doctr
+
+
+# make sure that tensorflow, byaldi , pyton-doctr are updated to the latest version
+# some other commands to run
+
+# !sudo apt-get install -y poppler-utils
+
+#print("flash")
+#!git clone https://github.com/Dao-AILab/flash-attention
+#%cd flash-attention
+#print()
+#!pwd
+#print()
+#!pip install .
+
